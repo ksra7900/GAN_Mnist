@@ -1,1 +1,1 @@
-Training GAN for Mnist Dataset
+# Training GAN for Mnist Dataset
